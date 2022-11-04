@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel
 - 👀 I’m interested in creating web application
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning django
 - 📫 You can reach me @ sh263175@gmail.com 
 
 <!---
